@@ -12,6 +12,5 @@ class Classic {
     el.style.backgroundColor = "black"
     document.body.appendChild(el)
   }
+  classic1 = new Classic("http://simpleabstract.com/assets/images/Oil-On-Canvas-Abstract-Art.jpg")
 }
-
-classic1 = new Classic("http://simpleabstract.com/assets/images/Oil-On-Canvas-Abstract-Art.jpg")
